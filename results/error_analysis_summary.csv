@@ -1,0 +1,55 @@
+filename,intended_text,predicted_text,intended_clean,predicted_clean,wer,file_wer,n_words,item_type
+pencil3.mp3,pencil,pencil,pencil,pencil,0.0,0.0,1,single_word
+purple.mp3,purple,purple,purple,purple,0.0,0.0,1,single_word
+bottle.mp3,bottle,bottle,bottle,bottle,0.0,0.0,1,single_word
+banana2.mp3,banana,banana,banana,banana,0.0,0.0,1,single_word
+umbrella2.mp3,umbrella,umbrella,umbrella,umbrella,0.0,0.0,1,single_word
+papaya.mp3,papaya,papaya,papaya,papaya,0.0,0.0,1,single_word
+tiger.mp3,tiger,tiger,tiger,tiger,0.0,0.0,1,single_word
+ticket.mp3,ticket,ticket,ticket,ticket,0.0,0.0,1,single_word
+water.mp3,water,water,water,water,0.0,0.0,1,single_word
+doctor.mp3,doctor,doctor,doctor,doctor,0.0,0.0,1,single_word
+candle2.mp3,candle,candle,candle,candle,0.0,0.0,1,single_word
+candle3.mp3,candle,candle,candle,candle,0.0,0.0,1,single_word
+elevator.mp3,elevator,elevator,elevator,elevator,0.0,0.0,1,single_word
+cucumber2.mp3,cucumber,cucumber,cucumber,cucumber,0.0,0.0,1,single_word
+guitar.mp3,guitar,guitar,guitar,guitar,0.0,0.0,1,single_word
+electricity2.mp3,electricity,electricity,electricity,electricity,0.0,0.0,1,single_word
+fish.mp3,fish,fish,fish,fish,0.0,0.0,1,single_word
+coffee2.mp3,coffee,coffee,coffee,coffee,0.0,0.0,1,single_word
+seven.mp3,seven,seven,seven,seven,0.0,0.0,1,single_word
+envelope3.mp3,envelope,envelope,envelope,envelope,0.0,0.0,1,single_word
+favourite3.mp3,favourite,favourite,favourite,favourite,0.0,0.0,1,single_word
+glasses2.mp3,glasses,glasses,glasses,glasses,0.0,0.0,1,single_word
+snake.mp3,snake,lake,snake,lake,1.0,1.0,1,single_word
+sunglasses2.mp3,sunglasses,sunglasses,sunglasses,sunglasses,0.0,0.0,1,single_word
+sunglasses3.mp3,sunglasses,sunglasses,sunglasses,sunglasses,0.0,0.0,1,single_word
+puzzle.mp3,puzzle,puzzle,puzzle,puzzle,0.0,0.0,1,single_word
+puzzle2.mp3,puzzle,puzzle,puzzle,puzzle,0.0,0.0,1,single_word
+mushroom2.mp3,mushroom,mushroom,mushroom,mushroom,0.0,0.0,1,single_word
+moon.mp3,moon,moon,moon,moon,0.0,0.0,1,single_word
+window3.mp3,window,window,window,window,0.0,0.0,1,single_word
+lemon3.mp3,lemon,lemon,lemon,lemon,0.0,0.0,1,single_word
+lion.mp3,lion,lion,lion,lion,0.0,0.0,1,single_word
+rabbit2.mp3,rabbit,rabbit,rabbit,rabbit,0.0,0.0,1,single_word
+achieves.mp3,achieves,achieves,achieves,achieves,0.0,0.0,1,single_word
+achieves3.mp3,achieves,accuse,achieves,accuse,1.0,1.0,1,single_word
+roller2.mp3,roller,roller,roller,roller,0.0,0.0,1,single_word
+mirror.mp3,mirror,mirror,mirror,mirror,0.0,0.0,1,single_word
+doctor ticket.mp3,The doctor gave me a ticket.,The doctor gave me a ticket.,the doctor gave me a ticket,the doctor gave me a ticket,0.0,0.0,6,sentence
+we are cheese.mp3,We ate cheese in the kitchen.,We ate cheese in the kitchen.,we ate cheese in the kitchen,we ate cheese in the kitchen,0.0,0.0,6,sentence
+hid behind mirror.mp3,The rabbit hid behind the mirror.,The rabbit hid behind the mirror.,the rabbit hid behind the mirror,the rabbit hid behind the mirror,0.0,0.0,6,sentence
+glasses and scissors.mp3,Can you pass the scissors and glasses?,Can you pass the scissors and glasses?,can you pass the scissors and glasses,can you pass the scissors and glasses,0.0,0.0,7,sentence
+can you pass the.mp3,Can you pass the scissors and glasses?,Can you pass the scissors and glasses?,can you pass the scissors and glasses,can you pass the scissors and glasses,0.0,0.0,7,sentence
+coffee better.mp3,I like coffee better than tea.,I like coffee better than tea.,i like coffee better than tea,i like coffee better than tea,0.0,0.0,6,sentence
+every morning water plants.mp3,"Every morning, I water the plants in my garden before breakfast.","Every morning, I water the plants in my garden before breakfast.",every morning i water the plants in my garden before breakfast,every morning i water the plants in my garden before breakfast,0.0,0.0,11,sentence
+water before breakfast.mp3,"Every morning, I water the plants in my garden before breakfast.","Every morning, I water the plants in my garden before breakfast.",every morning i water the plants in my garden before breakfast,every morning i water the plants in my garden before breakfast,0.0,0.0,11,sentence
+how accident happened.mp3,The doctor asked me to describe how the accident happened.,The doctor asked me to describe how the accident happened.,the doctor asked me to describe how the accident happened,the doctor asked me to describe how the accident happened,0.0,0.0,10,sentence
+my favourite subject.mp3,My favorite subject in school was always mathematics and science.,My favorite subject in school was always mathematics and science.,my favorite subject in school was always mathematics and science,my favorite subject in school was always mathematics and science,0.0,0.0,10,sentence
+fav subj maths.mp3,My favorite subject in school was always mathematics and science.,My favorite subject in school was always mathematics and science.,my favorite subject in school was always mathematics and science,my favorite subject in school was always mathematics and science,0.0,0.0,10,sentence
+iii2.mp3,iii,iii,iii,iii,0.0,0.0,1,single_word
+ooo.mp3,ooo,ooo,ooo,ooo,0.0,0.0,1,single_word
+uuu2.mp3,uuu,uuu,uuu,uuu,0.0,0.0,1,single_word
+morning routines.mp3,"This morning I woke up at 6:30, freshened up and went to the temple. After that I recorded some voice notes for my project. Then I attended all my classes. Later I had my lunch - lemon rice, it was really good and spent some time relaxing before getting back to the work. ","This morning, I woke up at 6.30am, freshened up and went to the temple. After that, I recorded some voice notes for my project. Then I attended all my classes. Later, I had my lunch — 11 right. It was really good, and spent some time relaxing before getting back to the work.",this morning i woke up at 630 freshened up and went to the temple after that i recorded some voice notes for my project then i attended all my classes later i had my lunch  lemon rice it was really good and spent some time relaxing before getting back to the work,this morning i woke up at 630am freshened up and went to the temple after that i recorded some voice notes for my project then i attended all my classes later i had my lunch  11 right it was really good and spent some time relaxing before getting back to the work,0.0576923076923076,0.057692307692307696,52,sentence
+1-20.mp3,"one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty","one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty,",one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty,one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty,0.5,0.5,40,sentence
+today weather.mp3,"Today in Jadcherla it’s cloudy and humid with a temperature around 23°C. There’s a high chance of showers through the afternoon and evening, with rain likely picking up later at night. Expect about 0.83 inches of rain for the day and humidity staying around 96%. The air quality is good. Overall it’s a cool, wet day so keep an umbrella handy if you’re heading out. ","Today, in Jarkala, it is a cloudy and humid with a temperature around 23 degrees Celsius. There is a high chance of showers through the afternoon and evening, which rained lightly picking of nature at night, especially about 0.83 inches of rain.",today in jadcherla its cloudy and humid with a temperature around 23c theres a high chance of showers through the afternoon and evening with rain likely picking up later at night expect about 083 inches of rain for the day and humidity staying around 96 the air quality is good overall its a cool wet day so keep an umbrella handy if youre heading out,today in jarkala it is a cloudy and humid with a temperature around 23 degrees celsius there is a high chance of showers through the afternoon and evening which rained lightly picking of nature at night especially about 083 inches of rain,0.6615384615384615,0.6615384615384615,65,sentence
